@@ -1,0 +1,16 @@
+.base-works {
+  text-align: justify;
+
+  ul {
+    flex: 1;
+    margin-left: 1.2rem;
+  }
+
+  img {
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+    float: right;
+    zoom: .5;
+    box-shadow: rgba(9, 30, 66, 0.25) 0 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+  }
+}
